@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* navbar styling */
+.navbar{
+    height: 90px;
+    width: 100%;
+    box-shadow:0px 7px 20px #dcdcdc
+}
+.info h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.signin{
+    height: 40px;
+    width: 120px;
+    background: #00baf2;
+    border-radius: 24px;
+    color:white;
+
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+.just-center{
+    justify-content: center;
+}
+.just-evenly{
+    justify-content: space-evenly;
+}
+.just-around{
+    justify-content: space-around;
+}
+
+.info{
+    width: 900px;
+}
+
+.text-align{
+    text-align: center;
+    font-size: 15px;
+}
+
+.bold{
+    font-weight: 500;
+}
+.emoji{
+    font-size:25px ;
+}
+.herosec{
+    margin-top: 8px;
+    height: 600px;
+    width: 100%;
+
+}
+.left{
+    height: 500px;
+    width: 50%;
+    padding-left: 100px;
+    
+}
+.right{
+    height: 500px;
+    width: 50%;
+   
+}
+.just-btw{
+    justify-content: space-between;
+}
+.right img{
+    height: 100%;
+}
+.left img{
+    box-shadow: 0 0 20px rgb(226, 226, 226);
+    border-radius: 13px;
+    box-shadow:0px 7px 20px #1f1d1d
+}
+.left h1{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.btn{
+    margin-top: 40px;
+    background: #000;
+    color: white;
+    height: 55px;
+    border-radius: 28px;
+    padding-left: 20px;
+    padding-right:20px ;
+}
+.btn:hover{
+    background:white ;
+    color:#000 ;
+}
+
+.dg{
+    background:rgb(124, 187, 223);
+}
+
+.signin:hover{
+    background: rgb(96,3,96);
+}
+.signin:hover i{
+    
+    background: #00baf2;
+}
+.signin i{
+    background: rgb(31, 10, 189);
+    width: 40px;
+    height: 100%;
+    border-radius: 50%;
+    text-align:center;
+    padding-top:10px ;
+}
+
+.new-dv{
+    background: #00baf2;
+    color: white; 
+}

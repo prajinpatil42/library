@@ -1,0 +1,242 @@
+    *
+    {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: inherit;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+
+
+    .css-14dg8zm
+    {
+        background:#282c34;
+        color:#ffffff;
+        padding-top:45px;
+        padding-bottom:25px;
+    }
+
+
+
+    .flex{
+        display: flex;
+        align-items: center;
+    }
+
+    .just-around{
+            justify-content: space-around;
+                 }
+    
+
+
+
+    .css-tctv7l
+    {
+        padding-left:20px;
+        padding-right:20px;
+        margin-left:auto;margin-right:auto;
+    }
+
+    .css-19z06ao
+    {
+        flex-wrap:wrap;
+        justify-content:center;
+        -webkit-box-lines:multiple;
+        -webkit-flex-wrap:wrap;
+        -webkit-box-pack:center;
+        -webkit-justify-content:center;
+    }
+
+
+    
+    .css-1k80xq8
+    {
+        display:-webkit-box; 
+        display: -moz-box; 
+        display: -ms-flexbox; 
+        display: -webkit-flex; 
+        display: flex;
+        flex-direction:row;
+        flex-grow:0;
+        flex-shrink:1;
+        flex-basis:auto;
+        justify-content:center;
+        align-items:center;
+        -webkit-box-orient:horizontal;
+        -webkit-box-direction:normal;
+        -webkit-flex-direction:row;
+        -webkit-flex-grow:0;
+        -webkit-flex-shrink:1;
+        -webkit-flex-basis:auto;
+        -webkit-box-pack:center;
+        -webkit-justify-content:center;
+        -webkit-box-align:center;
+        -webkit-align-items:center;
+    }
+      
+    .css-1053yfl
+    {
+            display:inline-block;
+            font-size:16px;background-color:#61dafb;
+            color:#000000;
+            padding:10px 25px;
+            white-space:nowrap;
+            transition:background-color 0.2s ease-out;-webkit-transition:background-color 0.2s ease-out;-moz-transition:background-color 0.2s ease-out;
+    }
+       
+    .css-1053yfl:hover:hover
+    {
+            background-color:#ffffff;
+    }
+
+    .css-1ezwgyu
+    {
+        text-align:right;
+        padding-right:7px;
+        padding-left:7px;
+    }
+
+    .css-13foh4g
+    {
+        display:inline-block;
+        font-size:16px;color:#61dafb;
+        transition:color 0.2s ease-out;
+        -webkit-transition:color 0.2s ease-out;
+        -moz-transition:color 0.2s ease-out;
+    }
+    
+    .css-13foh4g:hover:hover
+    {
+        color:#ffffff;
+    }
+
+
+ 
+
+
+    
+
+    .css-vn0yrr
+    {
+        background-color:#20232a;
+        color:#ffffff;
+        padding-top:10px;
+        padding-bottom:50px;
+    }
+    
+
+    .css-tctv7l
+    {
+        padding-left:20px;
+        padding-right:20px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    
+    .css-vn0yrr
+    {
+        background-color:#20232a;
+        color:#ffffff;
+        padding-top:10px;
+        padding-bottom:50px;
+    }
+
+
+    .css-1q9mcvr
+    {
+        flex-wrap:wrap;
+        display:-webkit-box; 
+        display: -moz-box; 
+        display: -ms-flexbox; 
+        display: -webkit-flex; 
+        display: flex;
+        -webkit-box-lines:multiple;
+        -webkit-flex-wrap:wrap;
+    }
+
+    .css-12bsqfj
+    {
+        display:-webkit-box; 
+        display: -moz-box; 
+        display: -ms-flexbox; 
+        display: -webkit-flex; 
+        display: flex;
+        flex-direction:column;
+        align-items:flex-start;
+        width:50%;
+        padding-top:40px;
+        -webkit-box-orient:vertical;
+        -webkit-box-direction:normal;
+        -webkit-flex-direction:column;
+        -webkit-box-align:start;
+        -webkit-align-items:flex-start;
+    }
+
+
+    .css-1m3wp4q
+    {
+        display:-webkit-inline-box; 
+        display:-moz-inline-box; 
+        display:-ms-inline-flexbox; 
+        display:-webkit-inline-flex; 
+        display:inline-flex;
+        flex-direction:column;
+        -webkit-box-orient:vertical;
+        -webkit-box-direction:normal;
+        -webkit-flex-direction:column;
+    }
+
+    .css-krwajx
+    {
+        color:rgb(220, 23, 23);
+        font-size:14px;
+        font-weight:700;
+        line-height:3;
+        text-transform:uppercase;
+        text-align:start;
+        letter-spacing:0.08em;
+       
+    
+    }
+
+
+    .css-8l81zy
+    {
+        line-height:2;
+    }
+    
+    .css-8l81zy:hover
+    {
+        color:#61dafb;
+    }
+
+
+    .css-1tq073i
+    {
+        padding-top:40px;
+        display:block !important;
+    }
+
+    .css-1izr7si
+    {
+        max-width:160px;
+        height:auto;
+    }
+
+
+        .css-1yy5aal
+    {
+        color:rgb(79, 212, 123);
+        padding-top:15px;
+    }
+
+
+    .pad{
+
+        padding-left:300px ;
+
+    }
+    
+
+ 
